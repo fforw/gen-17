@@ -1,3 +1,3 @@
-# Simple Starter
+# gen-17
 
-Simple JS build starter for simple, client-only demos.
+Generator based on alpha-transparent, gradient-filled circles.
